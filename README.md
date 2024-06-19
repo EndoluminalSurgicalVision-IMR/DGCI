@@ -31,7 +31,6 @@ delineation of airways and downstream applications.
 
 
 ## Usage
-
 For training and testing the DGCI, you can set up the configs in ./configs, and then:
 ```
 python train.py --config=configs/train/airway_dci.yml
