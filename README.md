@@ -36,3 +36,9 @@ For training and testing the DGCI, you can set up the configs in ./configs, and 
 python train.py --config=configs/train/airway_dci.yml
 python generate.py --config=configs/generate/airway_dci.yml
 ```
+For downstream applications of the DGCI, please follow the **./implicit_skel** and **./implicit_repair**.
+
+## Dataset
+
+
+ 
