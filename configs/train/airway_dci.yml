@@ -1,0 +1,16 @@
+batch_size: 16
+epochs: 500
+epochs_til_checkpoint: 20
+expand: -1
+experiment_name: airway_dci
+hidden_num: 128
+latent_dim: 128
+hyper_hidden_layers: 3
+logging_root: ./logs
+lr: 0.0001
+max_points: 300000
+model_type: sine
+num_instances: 50
+on_surface_points: 4000
+point_cloud_path: /your/path/for/the/points/data
+steps_til_summary: 100

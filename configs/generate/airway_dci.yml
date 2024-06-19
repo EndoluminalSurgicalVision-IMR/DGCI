@@ -1,0 +1,7 @@
+experiment_name: exp
+checkpoint_path: /your/path/for/the/points/data
+num_instances: 50
+latent_dim: 128
+hidden_num: 128
+hyper_hidden_layers: 3
+model_type: sine
