@@ -40,5 +40,5 @@ For downstream applications of the DGCI, please follow the **./implicit_skel** a
 
 ## Dataset
 
-
+The dataset can be accessed by [here](https://drive.google.com/file/d/1RyiA7dRmXHRirtqWsgncX_BN3VB2kPys/view?usp=sharing).
  
