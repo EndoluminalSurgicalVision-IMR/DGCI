@@ -30,4 +30,10 @@ public dataset demonstrated the superiority of the DGCI in the scalable
 delineation of airways and downstream applications.
 
 
-## Introduction
+## Usage
+
+For training and testing the DGCI, you can set up the configs in ./configs, and then:
+```
+python train.py --config=configs/train/airway_dci.yml
+python generate.py --config=configs/generate/airway_dci.yml
+```
