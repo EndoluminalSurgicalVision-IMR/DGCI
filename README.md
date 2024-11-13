@@ -43,7 +43,7 @@ The dataset can be accessed by [here](https://drive.google.com/file/d/1RyiA7dRmX
  
 ## 📝 Citation
 If you find this repository or our paper useful, please consider citing our paper:
-```
+```bibTex
 @inproceedings{zhang2024implicit,
   title={Implicit Representation Embraces Challenging Attributes of Pulmonary Airway Tree Structures},
   author={Zhang, Minghui and Zhang, Hanxiao and You, Xin and Yang, Guang-Zhong and Gu, Yun},
